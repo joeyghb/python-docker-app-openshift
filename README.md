@@ -1,1 +1,2 @@
-# python-docker-app-openshift
+# python-docker-app
+python-docker-app
